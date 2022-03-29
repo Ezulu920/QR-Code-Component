@@ -1,0 +1,45 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;
+}
+
+section{
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.main-div{
+    background-color: white;
+    width: 305px;
+    padding: 26px;
+    border-radius: 24px;
+}
+
+.qr-img{
+    width: 300px;
+    border-radius: 10px;
+}
+
+.slogan{
+    width: 300px;
+    margin-top: 26px;
+    text-align: center;
+    font-weight:700;
+    color: hsl(218, 44%, 22%);
+}
+
+p {
+    text-align: center;
+    font-size: 17px;
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+    padding: 9px 5px 9px;
+}
+
+#myinfo{
+    font-size: 1rem;
+    
+}
